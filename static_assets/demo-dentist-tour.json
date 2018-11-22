@@ -13,13 +13,14 @@
                 {"src": "Dentist_Entrance.jpg"}
             ],
             "navs":[
-                {"to":"Pharmacy", "txt": "Pharmacy"}
+                {"to":"Pharmacy", "txt": "Pharmacy","rotateY":10}
             ],
             "infos":[
                 {
                     "card":[
                         {"type":"content","txt": "Lorem Ipsum"}
-                    ]
+                    ],
+                    "rotateX":-90
                 }
             ],
             "preloads":[
